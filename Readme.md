@@ -6,7 +6,7 @@ This is a list tracking good LLM Benchmarks. Unfortunately not all can be run wi
 | --- | --- | --- | --- | --- |
 | [EvalPlus](https://github.com/evalplus/evalplus) | ✅ | ✅ | ✅ | Evaluates code gen |
 | LM Eval harness | | ✅ | |
-| LLM-Judge | ✅ | | | Evaluates chat assistants. Asks turn-by-turn conversation questions and then uses another LLM to evaluate results |
+| MT-Bench | ✅ | | | Evaluates chat assistants. Asks turn-by-turn conversation questions and then uses another LLM to evaluate results |
 | RAGAS | ✅ | ✅ | |
 | HELM   | ✅ | | [Link](https://github.com/stanford-crfm/helm/blob/main/demo.py) |
 | [FLASK](https://github.com/kaistAI/FLASK) | | | |
