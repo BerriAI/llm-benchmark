@@ -4,8 +4,8 @@ This is a list tracking good LLM Benchmarks. Unfortunately not all can be run wi
 
 | Library | ChatCompletions | Completions | Custom Proxy |
 | --- | --- | --- | --- |
-| Fast Eval | ✅ | | |
-| LM Eval harness | ✅ | | |
+| [EvalPlus](https://github.com/evalplus/evalplus) | ✅ | ✅ | ✅ |
+| LM Eval harness | | ✅ | |
 | RAGAS | ✅ | ✅ | |
 | HELM   | ✅ | | [Link](https://github.com/stanford-crfm/helm/blob/main/demo.py) |
 | [FLASK](https://github.com/kaistAI/FLASK) | | | |
